@@ -14,7 +14,7 @@ This is a python file that is equivalent to Calorie Tracker (final project).ipyn
 Caloric balance is determined using the calorie.py file. In this file a class called Calorie that gets the information entered by the user and utilizes it to calculate caloric balance is created. The Calorie class incorparates the Harris-Benedict Equation equation that calculates the caloric balance. The equation used is shown below. 
 * The imperial equation for Males is BMR = 66 + ( 6.2 × weight in pounds ) + ( 12.7 × height in inches ) – ( 6.76 × age in years ) 
 * The imperial equation for Females is BMR = 655.1 + ( 4.35 × weight in pounds ) + ( 4.7 × height in inches ) - ( 4.7 × age in years )
-To incorparate calories burned in exercise in the caloric balance we used a table on what'scookingamerica.net (link listed below) that had values of calories burned per pound per minute.
+* To incorparate calories burned in exercise in the caloric balance we used a table on what'scookingamerica.net (link listed below) that had values of calories burned per pound per minute.
 * https://whatscookingamerica.net/Information/CalorieBurnChart.htm
 #### caloriedb.py
 caloriedb.py creates and manipulates a database that stores the users ending caloric balance for a session and what the session number was.
